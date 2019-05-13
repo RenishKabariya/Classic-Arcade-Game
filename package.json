@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/RenishKabariya/SD_130_Final_Project/issues"
   },
-  "homepage": "https://github.com/RenishKabariya/SD_130_Final_Project#readme"
+  "homepage": "https://github.com/RenishKabariya/SD_130_Final_Project#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-babel": "^8.0.0"
+  }
 }
