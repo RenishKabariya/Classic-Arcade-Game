@@ -52,7 +52,7 @@ class Player {
     constructor(x, y) {
         this.x = x;
         this.y = y;
-        this.sprite = 'images/char-boy.png';
+        this.sprite = 'images/char-horn-girl.png';
     }
     update() {
 
